@@ -11,6 +11,11 @@ body {
   border-bottom: 1px solid black;
 }
 
+
+.content {
+  min-height: calc(100vh - 100px);
+}
+
 .footer {
   height: 49px;
   display: flex;
